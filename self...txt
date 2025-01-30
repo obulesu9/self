@@ -1,0 +1,10 @@
+hi,myself obulesu. currently working in unosis it solution,having 4years of experience in data engineering .well comming to roles and responsibilites.
+
+1)Designed and optimized end-to-end data pipelines on the Azure cloud platform using Azure Data Factory, Azure Data Lake, and Azure Databricks to handle large-scale data processing.
+2)Developed scalable ETL pipelines using PySpark for data transformation and integration, ensuring data quality and accuracy.
+3)Implemented real-time data processing solutions with Apache Spark and Kafka, enabling high-speed data ingestion and processing.
+4)Built and managed data warehouses by leveraging Azure Synapse Analytics for efficient data storage, retrieval, and analysis.
+5)Utilized Python for data manipulation and analysis with libraries like Pandas, NumPy, and Matplotlib to extract insights from complex datasets.
+6)Monitored and troubleshot Azure data pipelines to ensure optimal performance and quickly resolve issues, minimizing downtime and maximizing data availability.
+7)Collaborated with cross-functional teams to gather requirements and design data models, ensuring alignment with business needs and objectives.
+8)Adhered to Agile, Scrum, and Waterfall methodologies, participating in sprint planning, daily stand-ups, and retrospective meetings for streamlined project execution.
